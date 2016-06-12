@@ -1,2 +1,2 @@
-./mopidy
-./mopidy-spotify
+./mopidy/setup.py
+./mopidy-spotify/setup.py

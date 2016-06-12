@@ -1,2 +1,2 @@
-./mopidy/
-./mopidy-spotify/
+pip install ./mopidy/
+pip install ./mopidy-spotify/

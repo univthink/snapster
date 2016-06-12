@@ -1,2 +1,2 @@
-./snapst/mopidy/setup.py
-./snapst/mopidy-spotify/setup.py
+./snapst/mopidy/
+./snapst/mopidy-spotify/

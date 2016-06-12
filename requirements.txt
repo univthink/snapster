@@ -1,2 +1,2 @@
-./snapst/mopidy/
-./snapst/mopidy-spotify/
+./mopidy/
+./mopidy-spotify/
